@@ -3,4 +3,4 @@ My banned peers for qBittorrent. Mostly for anacrolix/torrent.
 
 Download it as ipfilter.dat, put it in a good place, and set IP Filtering options in Connection in qBittorrent. 
 
-Some peers in these range comsume infinite upload bandwidth, while progress is always zero. They are typical _leechers_.
+Some peers in these range comsume infinite upload bandwidth, while progress is always zero. They are typical _leechers_. I'll constantly observe leechers, and add them to this filter list.
